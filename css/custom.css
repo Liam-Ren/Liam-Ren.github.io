@@ -1,0 +1,13 @@
+/* body { */
+    /* background-color: #D6F5FF; /* 浅蓝色背景 */
+    /* background-image: linear-gradient(to right, #C0E4CC 1px, transparent 2px), 
+                      linear-gradient(to bottom, #C0E4CC 1px, transparent 2px);
+    background-size: 6px 6px; 网格大小 */ 
+  /* } */
+/* 修改侧边栏卡片的背景颜色 */
+.card-widget {
+    background-color: #F0FFFF !important; /* 你想要的背景颜色 */
+    border: 1px solid #d0e6f9; /* 边框颜色，可以根据需要调整 */
+    border-radius: 10px; /* 调整圆角 */
+  }
+  
