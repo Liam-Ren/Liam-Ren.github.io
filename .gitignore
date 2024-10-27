@@ -2,7 +2,6 @@
 .github/
 node_modules/
 public/
-themes/
 db.json
 package-lock.json
 yarn.lock
