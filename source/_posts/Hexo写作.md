@@ -4,7 +4,8 @@ date: 2024-10-29 16:06:00
 tags: Hexo
 categories: 个人笔记
 top_img: 
-cover: 
+cover: https://liam123.oss-cn-hangzhou.aliyuncs.com/blog/20241030203309.png
+description: 这是一个全面的Hexo写作教程，带你开启一场精彩绝伦的博客创作之旅，轻松打造专属你的优质内容天地！
 ---
 
 ## 写作流程
