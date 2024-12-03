@@ -2260,6 +2260,7 @@ figure.highlight pre .javascript .function {
   position: relative;
   overflow: hidden;
   margin-bottom: 20px;
+  background-color: #f0ffff;
   display: -webkit-box;
   display: -moz-box;
   display: -webkit-flex;
@@ -3920,7 +3921,6 @@ figure.highlight pre .javascript .function {
 #article-container {
   word-wrap: break-word;
   overflow-wrap: break-word;
-  background-color: #e0f7fa;
 }
 #article-container a {
   color: #5f9ea0;
