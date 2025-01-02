@@ -3780,7 +3780,7 @@ figure.highlight pre .javascript .function {
   display: none;
 }
 #nav #search-button {
-  display: inline;
+  display: none !important;
   padding: 0 0 0 14px;
 }
 #nav .site-page {
